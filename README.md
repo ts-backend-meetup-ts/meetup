@@ -12,6 +12,7 @@ TypeScript Backend Meetup은 TypeScript를 사용하는 백엔드 개발자들�
 
 참가를 원하시는 분들은 아래 신청 정보를 확인해주세요.
 
+- [신청 링크](https://ticketa.co/event/9myq1o6r)
 -   날짜 및 시간: 2026-06-26 금요일 19:30 입장
     > 10분 정도 더 일찍 오셔서 네트워킹 하셔도 좋습니다.
 -   장소: [토스 신논현 오피스](https://naver.me/GoiFKuez) - 서울 서초구 강남대로 459 9층 커뮤니티룸
