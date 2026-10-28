@@ -2,7 +2,7 @@
 
 ![logo](/public/logo/banner.png)
 
-# 2026년 6월 모임
+# 2026년 11월 모임
 
 TypeScript Backend Meetup은 TypeScript를 사용하는 백엔드 개발자들이 모여 지식과 경험을 공유하는 모임입니다.
 
@@ -12,11 +12,14 @@ TypeScript Backend Meetup은 TypeScript를 사용하는 백엔드 개발자들�
 
 참가를 원하시는 분들은 아래 신청 정보를 확인해주세요.
 
-- [신청 링크](https://ticketa.co/event/9myq1o6r)
--   날짜 및 시간: 2026-06-26 금요일 19:30 입장
+- 신청 링크: 준비 중
+  <!-- TODO: 신청 페이지 생성 후 [신청 링크](URL)로 교체해주세요. -->
+-   날짜 및 시간: 2026-11-06 금요일 19:30 입장
     > 10분 정도 더 일찍 오셔서 네트워킹 하셔도 좋습니다.
--   장소: [토스 신논현 오피스](https://naver.me/GoiFKuez) - 서울 서초구 강남대로 459 9층 커뮤니티룸
--   출입 방법: 입장 후 운영진에게 예약자 명을 말씀해주세요.
+-   장소: Sionic AI(사이오닉AI) - 상세 주소 및 층수 추후 안내
+    <!-- TODO: 이번 대관 공간의 상세 주소, 층수, 지도 링크를 입력해주세요. -->
+-   출입 방법: 추후 안내
+    <!-- TODO: 이번 장소의 출입 절차를 확인 후 입력해주세요. -->
 -   참가 인원: 50명
 -   안내 사항:
     > 모임 시작 일주일 전부터는 환불이 불가합니다.
@@ -25,29 +28,29 @@ TypeScript Backend Meetup은 TypeScript를 사용하는 백엔드 개발자들�
     -   타임 테이블은 운영진 논의에 따라 계속 조정될 수 있습니다!
 
 
-| 시간          | 내용 / 발표자 | 소속       | 자료 |
-| ------------- | ------- | ---------- | ---- |
-| 19:30 - 20:30 | 피자와 함께 하는 자유 네트워킹  | |
-| 20:30 - 20:50 | session1. LLM은 똑똑한데 왜 우리 회사일은 모를까 - 김병균 | 토스 | [링크]() |
-| 20:50 - 21:00 | 질의응답                   |            |      |
-| 21:00 - 20:20 | session2. JVM vs V8 - 이세호 | 디써클 | [링크](./public/2606/session2.pdf) |
-| 21:20 - 21:30 | 질의응답  |            |      |
-| 21:30 - 21:50 | session3. TTSC - 삼촌(남정호) | 뤼튼 | [링크]() |
-| 21:50 - 22:00 | 질의응답  |            |      |
+| 시간 | 내용 / 발표자 | 소속 | 자료 |
+| --- | --- | --- | --- |
+| 19:30 - 20:30 | 피자와 함께 하는 자유 네트워킹 | | |
+| 20:30 - 20:50 | session1. 우당탕탕 AI 영상 빌더 제작기 - 조민혁 | DX Lab | |
+| 20:50 - 21:00 | 질의응답 | | |
+| 21:00 - 21:20 | session2. AX라는 허상 (가제) - 정승원 | 데벨 / CTO | |
+| 21:20 - 21:30 | 질의응답 | | |
+| 21:30 - 21:50 | session3. 안녕, Datadog - 장애 대응 AX 플랫폼 개발기 - AI로 SaaS 서비스 대체하기 - 손재명 | CREVERSE | |
+| 21:50 - 22:00 | 질의응답 | | |
 
 ## 🏢 후원사
 
 > 후원을 원하시는 모든 분들은 [이곳](https://github.com/ts-backend-meetup-ts/meetup/blob/main/CONTRIBUTING.md)을 읽어주세요.
 
 -   **뤼튼** 에서 피자와 콜라를 쏩니다!
--   **Toss** 에서 장소를 후원해주십니다!
+-   **Sionic AI** 에서 장소를 후원해주십니다!
 
 ### ❤️ 정기 후원
 
 <table>
   <tr>
     <td align="center">
-      <img src="./public/logo/wrtn.png" alt="뤼튼 로고" width="200"/><br/>
+      <img src="/public/logo/wrtn.png" alt="뤼튼 로고" width="200"/><br/>
       <b>뤼튼 테크놀로지스</b>
     </td>
   </tr>
@@ -56,8 +59,8 @@ TypeScript Backend Meetup은 TypeScript를 사용하는 백엔드 개발자들�
 <table>
   <tr>
     <td align="center">
-      <img src="./public/logo/toss.png" alt="Sionic AI 로고" width="200"/><br/>
-      <b>Toss</b>
+      <img src="/public/logo/sionic-ai.png" alt="Sionic AI 로고" width="200"/><br/>
+      <b>Sionic AI</b>
     </td>
   </tr>
 </table>
@@ -91,6 +94,7 @@ TypeScript Backend Meetup은 TypeScript를 사용하는 백엔드 개발자들�
 -   [2026년 02월 모임](/public/2602/README.md)
 -   [2026년 03월 모임](/public/2603/README.md)
 -   [2026년 04월 모임](/public/2604/README.md)
+-   [2026년 06월 모임](/public/2606/README.md)
 
 # 🧑‍💻 역대 참가자
 
