@@ -34,7 +34,7 @@ TypeScript Backend Meetup은 TypeScript를 사용하는 백엔드 개발자들�
 | 20:20 - 20:30 | 질의응답 | | |
 | 20:30 - 20:50 | session2. AX를 정의해보았습니다. - 정승원 | 데벨 / CTO | [발표  자료](./public/2611/session2.pdf) |
 | 20:50 - 21:00 | 질의응답 | | |
-| 21:00 - 21:20 | session3. 안녕, Datadog - 장애 대응 AX 플랫폼 개발기 - AI로 SaaS 서비스 대체하기 - 손재명 | CREVERSE | |
+| 21:00 - 21:20 | session3. 안녕, Datadog - 장애 대응 AX 플랫폼 개발기 - AI로 SaaS 서비스 대체하기 - 손재명 | CREVERSE | [발표 자료](./public/2611/session3.html) |
 | 21:20 - 21:30 | 질의응답 | | |
 
 ## 🏢 후원사
